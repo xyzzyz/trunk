@@ -187,3 +187,6 @@
 [submodule "third_party/java/javassist/upstream"]
 	path = third_party/java/javassist/upstream
 	url = https://github.com/jboss-javassist/javassist.git
+[submodule "piecer"]
+	path = piecer
+	url = git@github.com:xyzzyz/piecer.git
