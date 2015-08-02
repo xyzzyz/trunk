@@ -62,6 +62,9 @@ cc_library(
     "upstream",
     "linux-k8",
   ],
+  defines = [
+    "FOLLY_HAVE_PTHREAD_ATFORK",
+  ],
   hdrs = [
   ],
   srcs = [
