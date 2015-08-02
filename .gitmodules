@@ -190,3 +190,6 @@
 [submodule "piecer"]
 	path = piecer
 	url = git@github.com:xyzzyz/piecer.git
+[submodule "cpp_util"]
+	path = util
+	url = git@github.com:xyzzyz/cpp_util.git
